@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/MCProject/MCFinalProject/app/src/main/res/layout/activity_main.xml" value="0.67" />
+=======
+<<<<<<< HEAD
+        <entry key="..\:/Mobile Computing/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12037037037037036" />
+        <entry key="..\:/Mobile Computing/app/src/main/res/layout/activity_main.xml" value="0.5" />
+=======
+        <entry key="..\:/MCProject/MCFinalProject/app/src/main/res/layout/activity_main.xml" value="0.67" />
+>>>>>>> 49b6252d834324e380b5175cca1ff74721fd399f
+>>>>>>> e84aaa838bffd51670ee028213a2d3c85d605224
       </map>
     </option>
   </component>
