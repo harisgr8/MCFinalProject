@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Background Color:"
+        android:layout_marginLeft="10dp"
+        android:paddingTop="60dp"
+        android:textSize="25sp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="30dp">
+
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/yellow"
+            android:background="@android:color/transparent"
+            android:onClick="changeColor"
+            android:tag="0"/>
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/silver"
+            android:background="@android:color/transparent"
+            android:onClick="changeColor"
+            android:tag="1"/>
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/orange"
+            android:background="@android:color/transparent"
+            android:onClick="changeColor"
+            android:tag="2"/>
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/brown"
+            android:background="@android:color/transparent"
+            android:onClick="changeColor"
+            android:tag="3"/>
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sea_blue"
+            android:background="@android:color/transparent"
+            android:onClick="changeColor"
+            android:tag="4"/>
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sea_green"
+            android:background="@android:color/transparent"
+            android:onClick="changeColor"
+            android:tag="5"/>
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/purple"
+            android:background="@android:color/transparent"
+            android:onClick="changeColor"
+            android:tag="6"/>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
