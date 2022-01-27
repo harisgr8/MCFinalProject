@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">ToDoApp</string>
+    <string name="app_name">Simple To Do</string>
+    <string name="newToDoItem">New Task</string>
+    <string name="todoListItem">To Do Item</string>
+    <string name="app_version">v1.0</string>
+    <drawable name="pending">@android:drawable/ic_dialog_alert</drawable>
+    <drawable name="complete">@android:drawable/checkbox_on_background</drawable>
+    <string name="banner_ad_unit_id">ca-app-pub-7152502668420042/8756802214</string>
+    <string name="yourValue">abcdef</string>
+
 </resources>
